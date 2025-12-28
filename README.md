@@ -58,4 +58,4 @@ This project addresses the limitations of standard in-app purchases by providing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
 ---
-**Author:** Vadym Shrub
+**Author:** Vadym 
