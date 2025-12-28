@@ -1,4 +1,4 @@
-# 🌟 Telegram Stars Exchange Platform
+# 🌟 Telegram Stars Shop Platform
 
 ![Status](https://img.shields.io/badge/Status-MVP-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
