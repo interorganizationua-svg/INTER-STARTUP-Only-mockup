@@ -42,7 +42,7 @@ This project addresses the limitations of standard in-app purchases by providing
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/INTER-STARTUP-Only-mockup.git](https://github.com/your-username/INTER-STARTUP-Only-mockup.git)
+    git clone [https://github.com/interorganizationua-svg/INTER-STARTUP-Only-mockup.git](https://github.com/interorganizationua-svg/INTER-STARTUP-Only-mockup.git)
     ```
 2.  **Install Frontend Dependencies**
     ```bash
