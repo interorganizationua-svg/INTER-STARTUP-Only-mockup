@@ -38,13 +38,6 @@ This project addresses the limitations of standard in-app purchases by providing
 * ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) **FastAPI** (REST API)
 * **Telegram Bot API** (Integration)
 
-## 🖥️ Preview
-
-*(Place a screenshot or a GIF of your application here. It drastically increases engagement!)*
-
-> *Example: Dashboard View*
-> ![Dashboard Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Placeholder)
-
 ## 🔧 Installation & Setup
 
 1.  **Clone the repository**
